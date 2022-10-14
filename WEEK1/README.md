@@ -1,6 +1,6 @@
-#INSTALLATION : 
+# INSTALLATION : 
 **vivado 2021.1 software was installed and basic uter interface was studied.**
-#RUNNING
+# RUNNING : 
 **The test bench file for automatic error detection in our original code file is studied.**
 **the test bench file is added to the simulation sources folder by using the the add sources option.**
 **the open elaborate design under the RTL ANALYSIS folder is used for verifing the blocks or circuital design of our hardware description language.**
